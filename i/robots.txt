@@ -1,3 +1,0 @@
-User-Agent: *
-Disallow:
-Sitemap: https://ultona.github.io/i/sitemap.txt
