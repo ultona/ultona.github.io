@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: http://ultona.psabl.com/sitemap.txt
+Sitemap: https://ultona.psabl.com/sitemap.txt
